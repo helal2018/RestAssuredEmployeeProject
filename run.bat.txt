@@ -1,0 +1,2 @@
+cd C:\Users\falga\OneDrive\Desktop\JavaClass\Eclipse\Workspace\RestAssuredAPITestingEmployees
+mvn clean install
